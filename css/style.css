@@ -1,0 +1,25 @@
+ul.fewquhidhfjosawq{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FF69B4;
+    }
+    
+    li.ehreoij {
+    float: left;
+    }
+    
+    li.ehreoij a {
+    display: block;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px 20px;
+    text-decoration: none;
+    }
+    
+    /* Change the link color to #111 (black) on hover */
+    li.ehreoij a:hover {
+    background-color: #111;
+    }
